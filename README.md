@@ -9,3 +9,6 @@ The main function of the application will be to create visualizations of common 
 ## Done
 - Created graph algorithm visualizer prototype, one of the functionalities of the project
 - Created and deployed onto Heroku pipeline, to familiarize with a pipeline and CI/CD concepts
+![](VisualizerPrototype/visualdemoMain/gif1.gif)
+![](VisualizerPrototype/visualdemoMain/gif2.gif)
+
