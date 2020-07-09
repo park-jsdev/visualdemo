@@ -1,3 +1,16 @@
+# Visualizer
+
+Prototype of Graph Algorithms visualizing application of the Visual Demo Project.
+Demonstrates use of React frontend powered by javascript backend.
+We should create a landing page and implement a Java stack backend.
+
+Deployed to Heroku pipeline to familiarize with CI/CD process and working with a codebase.
+
+## Backlog
+
+- Can change refresh button to use react states to refresh or rerender the grid. Currently it simply refreshes the page
+- Add more algorithms
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
