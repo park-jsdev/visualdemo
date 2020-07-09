@@ -1,13 +1,37 @@
 # Project Plan
 - System Design Overview
 - Implement Learning from Database, Software Engineering and Software Architecture & Design Courses
-- Create a prototype landing page
+- Create the frontend prototype landing page
+- Design Database using SDLC, design from database up
+- Design Software using SDLC
+- Take screenshots of Asana to demonstrate project management
+- Use Evolutionary and incremental prototyping for consistent delivery
 
 ## TODO
 - Setup Project Plan
 - High Level Design
 - Create some models
 - Figure out what technologies to use
+https://medium.com/@mukundmadhav/build-and-deploy-react-app-with-spring-boot-and-mysql-6f888eb0c600 to learn React frontend and Java Spring Boot backend with MySQL
+- Jenkins CI/CD
+- Docker for management
+- NGNIX or Apache for web server
+- Deploy onto AWS or GCloud, install Kubernetes
+
+- Create a frontend toolchain
+- start a test suite and TDD, JUnit/Jest?
+https://frontarm.com/james-k-nelson/static-vs-server-rendering/ 
+- Use Gatsby static rendering for landing page for speed, server rendering with Next.js for the main app 
+
+- JEE stack:
+- MVC architecture with React as V, 
+- Figure out Spring MVC or Spring Boot for backend, Boot is easier, Hibernate is a db framework
+- Spring Data REST
+- Spring Tool Suite
+- Pusher
+- Hibernate, ORM, Junit and Mockito
+- Tomcat, Jetty, Undertow?
+- Microservice framework development with spring boot
 
     ### System Design:
     - Security
@@ -72,6 +96,33 @@
     - Data Deduplication
     - Data Partitioning
 
+    #### Databases TODO:
+    - DB SDLC:
+    Stage of Database System Development Lifecycle / Data Captured / Documentation Produced
+    - Planning / <todo> Aims and objectives / Mission statement and objectives
+    - System definition / <todo> Description of major user views  / <todo> Definition of scope and boundary of db system, definition of user views to be supported
+    - Requirements collection and analysis / <todo> Requirements for user views, system specifications, including performance and security requirements / <todo> User's and system requirements specifications
+    - DB design / <todo> user response, conceptual/logical db design, not needed here / <todo> conceptual/logical db design (ER models, data dictionary, relational schema), phyiscal db design
+    - DBMS selection / <todo> Functionality provided by target DBMS / <todo> DBMS evaluation
+    - Application design / <todo> user response, we wont do here / <todo> Application design (includes description of programs and user interface)
+    - Protoyping / <todo> user response, not needed / <todo> modified users' requirements and system specifications, do a mock
+    - Implementation / <todo> functionality provided by target DBMS
+    - Data conversion and loading / <todo> Format of current data, data import capabilities of target DBMS
+    - Testing / <todo> test results / testing strategies used, analysis of test results
+    - Operational maintenance / <todo> performance testing results, new or changing user and system requirements / user manual
+
+    - Fact-Finding Techniques:
+        - Can prepare a mock interview, survery, questionnaire for demonstration
+
+    - Demonstrate ACIDity
+    - Demonstrate Normalization to reduce redundancy and increase data integrity
+    - 1st NF
+    - 2nd NF
+    - 3rd NF
+    - BCNF
+    - 4th NF
+    - 5th NF
+
     ### Extra Features:
     - Cryptocurrency
     - Machine Learning
@@ -79,7 +130,7 @@
 
     ### Skills/Technologies to demonstrate:
     - Project Management:
-        - Asana
+        - Asana - just take screenshots to show use
     - Tech Stack: 
         - Java / Spring Boot / Hibernate / React
     - Features / Algorithms / Concepts:
@@ -108,7 +159,7 @@
         - Spring Boot
     - CLOUD PLATFORM:
         - Heroku - For ease (PaaS ready to use)
-        - Choose between Google Cloud, AWS, MS Azure (They are full platforms, IaaS, PaaS, SaaS)
+        - Choose between Google Cloud, AWS, MS Azure (They are full platforms, IaaS, PaaS, SaaS), PCF
     - CONTAINERS:
         - Docker
         - Kubernetes
@@ -122,4 +173,4 @@
         - Bootstrap + HTML/CSS - Frontend
         - REST services for communication with back end
         - JSON for data communication
-
+        - Apigee - API management platform
