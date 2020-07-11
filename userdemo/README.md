@@ -8,8 +8,8 @@ The CRUD API was tested through Postman.
 The application was deployed onto both an AWS EC2 and Google Cloud Platform VM Instance remote server.
 SFTP was used to transfer the .jar file.
 
-![](mainpage.png)
-![](directory.png)
+![](mainpage.PNG)
+![](directory.PNG)
 
 ## MySQL
 ```
