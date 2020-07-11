@@ -6,7 +6,7 @@ MySql Driver (JDBC), Spring Boot DevTools and Spring Data JPA. \
 The application was packaged with Maven. \
 The CRUD API was tested through Postman. \
 The application was deployed onto both an AWS EC2 and Google Cloud Platform VM Instance remote server. \
-SFTP was used to transfer the .jar file. \
+SFTP was used to transfer the .jar file. 
 
 ![](mainpage.PNG)
 ![](directory.PNG)
