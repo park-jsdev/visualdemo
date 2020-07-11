@@ -12,7 +12,7 @@ SFTP was used to transfer the .jar file.
 ![](directory.png)
 
 ## MySQL
-``
+```
 CREATE TABLE `tb_user` (`id` int(11) NOT NULL AUTO_INCREMENT, `name`
 varchar(255) DEFAULT NULL, `gender` varchar(255) DEFAULT NULL,
 `company` varchar(255) DEFAULT NULL, `dob` date DEFAULT NULL, PRIMARY KEY (`id`));
@@ -23,7 +23,7 @@ values('1', 'Sundar Pichai', 'Male', 'Google', '1972-06-10');
 insert into `tb_user` (`id`, `name`, `gender`, `company`, `dob`)
 values('2', 'Mark Zuckerberg', 'Male', 'Facebook', '1984-05-14');
 
-``
+```
 
 ## TODO
 - Automate with Jenkins
