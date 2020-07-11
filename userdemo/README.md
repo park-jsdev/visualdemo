@@ -1,5 +1,5 @@
 # UserDemo
-This is an early prototype for the user directory / social media feature for the project. \
+This is a React / Java Spring / MySQL CRUD application. It is an early prototype for the user directory / social media feature for the project. \
 The database was built with MySQL, the table can be seen below. \
 The frontend was built with React, while the backend was developed with Java Spring Boot, set up with Web (MVC, Tomcat container), \
 MySql Driver (JDBC), Spring Boot DevTools and Spring Data JPA. \
