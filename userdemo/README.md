@@ -27,4 +27,4 @@ values('2', 'Mark Zuckerberg', 'Male', 'Facebook', '1984-05-14');
 
 ## TODO
 - Automate with Jenkins
-- Use NGNIX server on Docker
+- Use NGINX server on Docker
