@@ -32,7 +32,7 @@ To demonstrate:
 - Project should demonstrate DevOps using modern technologies: Jenkins, Ansible
 - Project should demonstrate Database development using modern technologies and techniques: MySQL/Oracle, Vitess - Data Sharding, Load Balancing, Redis - Caching, Data Partitioning
 - Project should demonstrate modern cloud related technologies: Kubernetes
-- Project should demonstrate full stack development related technologies: Pusher, NGNIX/Apache, ElasticSearch - Indexing, Electron - Web views
+- Project should demonstrate full stack development related technologies: Pusher, NGINX/Apache, ElasticSearch - Indexing, Electron - Web views
 - Project should demonstrate container development: Docker, Kubernetes, Terraform
 - Project should demonstrate api implementation and management using modern technologies: Apigee
 - Project should demonstrate microservices: Spring Boot
@@ -74,7 +74,7 @@ To demonstrate:
 https://medium.com/@mukundmadhav/build-and-deploy-react-app-with-spring-boot-and-mysql-6f888eb0c600 to learn React frontend and Java Spring Boot backend with MySQL
 - Jenkins CI/CD
 - Docker for management
-- NGNIX or Apache for web server
+- NGINX or Apache for web server
 - Deploy onto AWS or GCloud, install Kubernetes
 
 - Create a frontend toolchain
