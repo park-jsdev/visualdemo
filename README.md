@@ -10,6 +10,9 @@ The main function of the application will be to create visualizations of common 
 The project is still in a Proof Of Concept Prototype stage and is not versioned:
 Current version can be found here: https://park-jsdev.github.io/my-app/
 
+## Next Action
+Add frontend to JHipster framework and deploy to cloud hosting
+
 
 ## Previous
 - Created graph algorithm visualizer prototype, one of the functionalities of the project
