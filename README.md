@@ -6,7 +6,12 @@ The main function of the application will be to create visualizations of common 
 [Project Plan](ProjectPlan.md)\
 [Roadmap](https://trello.com/b/VTMX8l4A)
 
-## Done
+## Current Version
+The project is still in a Proof Of Concept Prototype stage and is not versioned:
+Current version can be found here: https://park-jsdev.github.io/my-app/
+
+
+## Previous
 - Created graph algorithm visualizer prototype, one of the functionalities of the project
 - Created and deployed onto Heroku pipeline, to familiarize with a pipeline and CI/CD concepts
 ![](VisualizerPrototype/visualdemoMain/gif1.gif)
