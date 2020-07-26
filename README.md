@@ -13,7 +13,6 @@ Current version can be found here: https://park-jsdev.github.io/my-app/
 
 ## Previous
 - Created graph algorithm visualizer prototype, one of the functionalities of the project
-- Created and deployed onto Heroku pipeline, to familiarize with a pipeline and CI/CD concepts
 ![](VisualizerPrototype/visualdemoMain/gif1.gif)
 ![](VisualizerPrototype/visualdemoMain/gif2.gif)
 
