@@ -9,7 +9,8 @@ The main function of the application will be to create visualizations of common 
 ## Current Version
 The project is still in a Proof Of Concept Prototype stage and is not versioned:
 Current version can be found here: https://park-jsdev.github.io/my-app/
-![](Capture.png)
+
+![](Capture.PNG)
 
 ## Next Action
 Add frontend to JHipster framework and deploy to cloud hosting
