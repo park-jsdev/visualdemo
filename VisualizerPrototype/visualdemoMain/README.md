@@ -1,7 +1,7 @@
 # Visualizer
 
 Prototype of Graph Algorithms visualizing application of the Visual Demo Project.
-Demonstrates use of React frontend powered by javascript backend.
+Demonstrates use of React frontend
 We should create a landing page and implement a Java stack backend.
 
 Deployed to Heroku pipeline to familiarize with CI/CD process and working with a codebase.
