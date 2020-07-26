@@ -4,15 +4,11 @@
 To demonstrate:
 - programming fluency
 - knowledge of data structures and algorithms
-- knowledge of software engineering
-- knowledge of software architecture
-- knowledge of system design
-- knowledge of database design
+- knowledge of software engineering, software architecture, system design, database design
+- knowledge of infrastructure, cloud services, containers, deployment
 - knowledge of full stack web application development using client-server architecture and REST 
 - knowledge of modern technologies - APIs, frameworks, software services
-- knowledge of cloud services
-- knowledge of QA
-- knowledge of DevOps
+- knowledge of QA / DevOps
 - a full SDLC or agile cycle and deploy a project
 
 ## Project Scope
@@ -27,15 +23,14 @@ To demonstrate:
 
 - Project should demonstrate features such as Load Balancing, Data Partitioning, LRU/LFU Cache, Social Media Tools, Feed Creation, Push notifications, TinyURL Encoding, Telemetry
 - Project should demonstrate project management using modern technologies: Asana and Trello
-- Project should use Java backend and JEE stack
+- Project should use Java backend, Spring Boot
 - Project should demonstrate QA using modern technologies: JUnit, Selenium, Postman, JIRA
 - Project should demonstrate DevOps using modern technologies: Jenkins, Ansible
 - Project should demonstrate Database development using modern technologies and techniques: MySQL/Oracle, Vitess - Data Sharding, Load Balancing, Redis - Caching, Data Partitioning
-- Project should demonstrate modern cloud related technologies: Kubernetes
 - Project should demonstrate full stack development related technologies: Pusher, NGINX/Apache, ElasticSearch - Indexing, Electron - Web views
 - Project should demonstrate container development: Docker, Kubernetes, Terraform
 - Project should demonstrate api implementation and management using modern technologies: Apigee
-- Project should demonstrate microservices: Spring Boot
+- Project should experiment with microservices
 
 ## Project Roadmap
 > Public Product Roadmap using Trello: https://trello.com/b/VTMX8l4A
@@ -70,32 +65,23 @@ To demonstrate:
 - Use Evolutionary and incremental prototyping for consistent delivery
 - Create some models
 
-- Figure out what technologies to use
 https://medium.com/@mukundmadhav/build-and-deploy-react-app-with-spring-boot-and-mysql-6f888eb0c600 to learn React frontend and Java Spring Boot backend with MySQL
 - Jenkins CI/CD
-- Docker for management
+
+- Experiment with Docker or Kubernetes containers for microservices
 - NGINX or Apache for web server
-- Deploy onto AWS or GCloud, install Kubernetes
+- Deploy onto AWS or GCloud
 
 - Create a frontend toolchain
 - start a test suite and TDD, JUnit/Jest?
 https://frontarm.com/james-k-nelson/static-vs-server-rendering/ 
 - Use Gatsby static rendering for landing page for speed, server rendering with Next.js for the main app 
 
-- JEE stack:
+- Use Spring Boot backend
 - MVC architecture with React as V, 
-- Figure out Spring MVC or Spring Boot for backend, Boot is easier, Hibernate is a db framework
-- Spring Data REST
-- Spring Tool Suite
 - Pusher
 - Hibernate, ORM, Junit and Mockito
-- Tomcat, Jetty, Undertow?
 - Microservice framework development with spring boot
-- Testing with Postman
-- We need to use nashorn to render Java Spring with React?
-https://www.baeldung.com/react-nashorn-isomorphic-app
-- Pusher / Thymeleaf to synchronize?
-https://pusher.com/tutorials/shopping-cart-java-react
 
 
 ### System Design:
@@ -155,9 +141,6 @@ https://pusher.com/tutorials/shopping-cart-java-react
 - Databases: SQL / Data Sharding / Load Balancing / Caching / Data Partitioning
 - ACID principles
 - Load Balancing (Algorithm)
-- ElasticSearch - Indexing
-- Vitess - Data Sharding
-- Redis - Short lived data and caching
 - Data Deduplication
 - Data Partitioning
 
@@ -177,11 +160,4 @@ Stage of Database System Development Lifecycle / Data Captured / Documentation P
 - Operational maintenance / <todo> performance testing results, new or changing user and system requirements / user manual
 - Fact-Finding Techniques:
     - Can prepare a mock interview, survery, questionnaire for demonstration
-- Demonstrate ACIDity
-- Demonstrate Normalization to reduce redundancy and increase data integrity
-- 1st NF
-- 2nd NF
-- 3rd NF
-- BCNF
-- 4th NF
-- 5th NF
+- Demonstrate ACIDity, normalization and data integrity
