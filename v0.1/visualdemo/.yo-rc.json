@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.tp.visualdemo"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "visualdemo",
+    "packageName": "com.tp.visualdemo",
+    "packageFolder": "com/tp/visualdemo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "caffeine",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDkyMzVlOTE2MjEwZGExMDQ0NGZkZjE1Mzk1OTk5YTU0YWFiMTZiZmZjMDk0OTdkNzgzODNiM2E3MjU4YjdlMzA5ZWI2MWIxZjBjNGI5MmEzYmU4ZjM2NDA4M2EzNzYwYjk0MjAxNzI2NWI3MDY3NzgzOTIzZWJmNTllMGM0OWQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1595787848335,
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+src/main/docker/
+src/test/javascript/protractor.conf.js
+src/test/javascript/jest.conf.js
+src/main/webapp/app/entities/graphVisualizer/graphVisualizer.jsx
+src/main/webapp/app/entities/graphAlgorithms/dijkstra.js
+webpack/
+target/
+build/
+node/
+postcss.config.js
