@@ -38,7 +38,7 @@ The current project can be found at http://visualdemo-1-env.eba-myk4weza.us-west
         - Hibernate for 2nd level cache
         - Connection pooling with HikariCP
 
-- Deployed onto AWS EC2 using Elastic Beanstalk
+- Deployed onto AWS using Elastic Beanstalk
 - Set up Continuous Integration using Jenkins CI/CD pipeline
 - Added user registration / login
 - Added admin features such as user db management, metrics, logs, configurations
