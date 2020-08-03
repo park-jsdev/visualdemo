@@ -41,10 +41,10 @@ The current project can be found at http://visualdemo-1-env.eba-myk4weza.us-west
 - Deployed onto AWS EC2 using Elastic Beanstalk
 - Set up Continuous Integration using Jenkins CI/CD pipeline
 
-![](v0.1\visualdemo\v0.1\signin.PNG)
-![](v0.1\visualdemo\v0.1\usermanagement.PNG)
-![](v0.1\visualdemo\v0.1\metrics.PNG)
-![](v0.1\visualdemo\v0.1\logs.PNG)
+![](v0.1\signin.PNG)
+![](v0.1\usermanagement.PNG)
+![](v0.1\metrics.PNG)
+![](v0.1\logs.PNG)
 
 
 ## Previous Version
