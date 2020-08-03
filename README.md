@@ -40,6 +40,8 @@ The current project can be found at http://visualdemo-1-env.eba-myk4weza.us-west
 
 - Deployed onto AWS EC2 using Elastic Beanstalk
 - Set up Continuous Integration using Jenkins CI/CD pipeline
+- Added user registration / login
+- Added admin features such as user db management, metrics, logs, configurations
 
 ![](v0.1/signin.PNG)
 ![](v0.1/usermanagement.PNG)
