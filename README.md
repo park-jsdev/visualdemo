@@ -43,11 +43,6 @@ The current project can be found at http://visualdemo-1-env.eba-myk4weza.us-west
 - Added user registration / login
 - Added admin features such as user db management, metrics, logs, configurations
 
-![](v0.1/signin.PNG)
-![](v0.1/usermanagement.PNG)
-![](v0.1/metrics.PNG)
-![](v0.1/logs.PNG)
-
 
 ## Previous Version
 The project is still in a Proof Of Concept Prototype stage and is not versioned:
